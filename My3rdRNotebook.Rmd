@@ -1,0 +1,10 @@
+---
+title: "R Notebook"
+---
+
+
+
+heres is some random text bro.we'll commit this 
+```{r}
+dskjjvbfv gbgb fgb  b k 'gvshvbd
+```{r}
