@@ -5,6 +5,5 @@ title: "R Notebook"
 
 
 heres is some random text bro.we'll commit this 
-```{r}
-dskjjvbfv gbgb fgb  b k 'gvshvbd
-```{r}
+
+this s me trying to create a new branch speaprate from the new figure branch?
